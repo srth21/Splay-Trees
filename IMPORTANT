@@ -1,0 +1,4 @@
+PLEASE NOTE THAT THE GRAPHVIZ LIBRARY HAS TO BE DOWNLOADED...
+  ...it can be downloaded from http://www.graphviz.org/Download.php
+
+all the code files have to be put in the release/release/bin folder for the visualisation to work.
